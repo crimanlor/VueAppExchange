@@ -7,7 +7,7 @@
           <router-link
             :to="{ name: 'home' }"
             class="front-semibold text-xl tracking-tight"
-            >Vue Exchange App</router-link
+            >Vue App Exchange</router-link
           >
         </div>
         <div
@@ -35,8 +35,8 @@ export default {
   props: {
     links: {
       type: Array,
-      default: () => []
-    }
-  }
+      default: () => [],
+    },
+  },
 };
 </script>
