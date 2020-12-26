@@ -69,15 +69,15 @@ export default {
   props: {
     assets: {
       type: Array,
-      default: () => [],
-    },
+      default: () => []
+    }
   },
 
   methods: {
     goToCoin(id) {
       this.$router.push({ name: "coin-detail", params: { id } });
-    },
-  },
+    }
+  }
 };
 </script>
 
