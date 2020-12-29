@@ -2,6 +2,8 @@
 
 https://vueappexchange.netlify.app/
 
+![Vue App Exchange Demo](vueappexchange.gif)
+
 ## Project setup
 
 ```
