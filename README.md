@@ -42,7 +42,7 @@ Pasos para obtener una copia del proyecto en funcionamiento:
   - [Prettier](https://prettier.io/)
   - [Vue dev tools para el navegador](https://github.com/vuejs/vue-devtools)
 
-- Para poner en funcionamiento y poder practicar con este proyecto solo necesitas tu **editor de texto** y **navegador** favoritos. He utilizado:
+- Para poder codear y practicar con este proyecto solo necesitas tu **editor de texto** y **navegador** favoritos. He utilizado:
 
   - Visual Studio
   - Google Chrome
