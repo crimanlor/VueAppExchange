@@ -53,4 +53,8 @@ Pasos para obtener una copia del proyecto en funcionamiento:
 
 ![Vue App Exchange Demo](vueappexchange.gif)
 
+### Deploy con Netlify 💻
+
+https://vueappexchange.netlify.app/
+
 Con 💛 por Lorena C. 🐢
